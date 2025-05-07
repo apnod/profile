@@ -1,0 +1,79 @@
+body {
+    background-color:#1F7D53;
+}
+.heading {
+    background-color:#27391C ;
+    width: 100%;
+    height: 80px;
+    font-family: cursive;
+    font-size: 3em;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 10px;
+    margin-bottom: 20px;
+}
+span {
+    color: #86d093;
+}
+.about {
+    background-color: #255F38;
+    padding:10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+
+}
+.about-me {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.45em;
+    margin-bottom: 10px;
+    text-decoration:#01301b underline;
+}
+.skill {
+    background-color: #255F38;
+    padding:10%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.skill-head {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.45em;
+    margin-bottom: 10px;
+    text-decoration:#01301b underline;
+}
+.CONTACT {
+    background-color:#27391C ;
+    width: 100%;
+    height: 80px;
+    text-align: center;
+    font-size: 1.40em;
+}
+a {
+    text-decoration: none;
+}
+a:link {
+    color: rgb(5, 115, 115);
+}
+a:hover {
+    color: antiquewhite;
+    transition: 0.3s;
+}
+.html:hover {
+    color: antiquewhite;
+    transition: 0.3s;
+}
+.css:hover {
+    color: antiquewhite;
+    transition: 0.3s;
+}
+.mc:hover {
+    color: antiquewhite;
+    transition: 0.3s;
+}
+.dc:hover {
+    color: antiquewhite;
+    transition: 0.3s;
+}
+.aboutme-hover:hover {
+    color: antiquewhite;
+    transition: 0.6s;
+}
